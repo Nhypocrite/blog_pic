@@ -1,3 +1,3 @@
-#blog_pic
+# blog_pic
 
-This repository is used for storing the pictures of Nhypocrite. 
+This repository is used for storing the pictures of NHypocrite. 
