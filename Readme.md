@@ -1,3 +1,3 @@
 # blog_pic
 
-This repository is used for storing the pictures of NHypocrite. 
+This repository is used for testing the uploading and storage the pictures. 
